@@ -4,7 +4,7 @@ GENERATOR:
 
 PARSER: 
   IncludePaths: [/usr/include]
-  SourcesPaths: [nl80211/nl80211.h]
+  SourcesPaths: [nl80211/nl80211.h, nl80211/multicast.h]
 
 TRANSLATOR:
   ConstRules: 
